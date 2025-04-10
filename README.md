@@ -104,11 +104,9 @@ Output: Bonafide / Spoof
 
 ```
 audio-deepfake-detection-momenta/
-├── LA/                              # Dataset folders & protocol files
 ├── models/                          # RawNet2 model definition
-├── dataset.py                      # Custom PyTorch Dataset loader
 ├── train.py                        # Model training script
-├── waveform_plot.py                # Audio waveform visualization
+├── UTILS/                         # include the dataset traing 
 ├── requirements.txt
 └── README.md
 ```
