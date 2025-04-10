@@ -47,35 +47,9 @@ After evaluating architecture complexity, performance, and adaptability to raw w
 
 ---
 
-## 🚀 4. Installation
 
-```bash
-git clone https://github.com/anitripathi/audio-deepfake-detection-momenta.git
-cd audio-deepfake-detection-momenta
 
-# (Optional) Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Install dependencies
-pip install -r requirements.txt
-```
-
----
-
-## 📈 5. Usage
-
-### 5.1 Train the model
-
-```bash
-python train.py
-```
-
-### 5.2 Visualize an audio waveform
-
-```bash
-python waveform_plot.py
-```
 
 ### 5.3 Inference (coming soon)
 
