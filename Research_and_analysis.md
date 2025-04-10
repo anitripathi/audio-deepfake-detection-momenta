@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This document provides a comparative analysis of several models used for detecting audio deepfakes. It evaluates their strengths, limitations, and real-world applicability using the ASVspoof 2019 Logical Access (LA) dataset, aiming to identify the most effective solution for the project.
+This document provide a comparative analysis of several models used for detecting audio deepfakes. It evaluates their strengths, limitations, and real-world applicability using the ASVspoof 2019 Logical Access (LA) dataset, aiming to identify the most effective solution for the project.
 
 ---
 
